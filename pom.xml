@@ -16,7 +16,7 @@
   <name>quarantine</name>  
   <description>Demo project for Spring Boot</description>  
   <properties> 
-    <java.version>1.8</java.version> 
+    <java.version>11</java.version> 
   </properties>  
   <dependencies> 
     <dependency> 
@@ -77,7 +77,7 @@
           <region>westeurope</region>
           <runtime>
             <os>windows</os>
-            <javaVersion>1.8.0_202</javaVersion>
+            <javaVersion>11</javaVersion>
             <webContainer>tomcat 8.5</webContainer>
           </runtime>
           <deployment>
